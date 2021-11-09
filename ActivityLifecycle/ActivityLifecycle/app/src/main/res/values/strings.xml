@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="checkBoxText">Запомнить меня</string>
+    <string name="loginButton">Войти</string>
+    <string name="passwordHint">Ведите вашь пароль</string>
+    <string name="emailHint">Ведите свой Email</string>
+    <string name="logoText">Добро пожаловать</string>
+    <string name="anrButton">Вызов ANR</string>
+</resources>
